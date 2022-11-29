@@ -23,11 +23,11 @@
             </tr>
           </tbody>
         </table>
-        <p>Pagina: {{  page  }}</p>
+        <p>Page: {{  page  }}</p>
         <button class="btn btn-success m-1" @click="anterior()"
-        v-if="isPrevious">Anterior</button>
+        v-if="isPrevious">Previous</button>
         <button class="btn btn-success" @click="siguiente()"
-        v-if="isNext">Siguiente</button>
+        v-if="isNext">Next</button>
       </div>
     </div>
 

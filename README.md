@@ -1,4 +1,7 @@
 # gentera-fullstack
+Proyecto que consume la siguiente API [SWAPI](https://swapi.dev/ ) llamando el endpint de people y pinta todos sus atributos en una aplicación VueJs.
+
+![Alt text](/roject-img/1.png "")
 
 ## Project setup
 ```
