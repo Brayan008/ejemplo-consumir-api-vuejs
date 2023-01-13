@@ -1,4 +1,4 @@
-# gentera-fullstack
+# Consumir api vuejs 3
 Proyecto que consume la siguiente API [SWAPI](https://swapi.dev/ ) llamando el endpint de people y pinta todos sus atributos en una aplicación VueJs.
 
 ![Alt text](/project-img/1.png "")
